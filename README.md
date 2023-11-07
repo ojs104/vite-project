@@ -24,8 +24,8 @@ TypeScript 지원: Vite는 TypeScript를 기본적으로 지원하므로 타입 
 
 ## 구현기능
 
-- 구글 폰트 적용 https://github.com/studio-freight/lenis
-- smooth 효과 적용
+- 구글 폰트 적용
+- smooth 효과 적용 https://github.com/studio-freight/lenis
 - 자바스크립트 메뉴 클릭 이동 효과 적용
 - GSAP를 이용한 가로 효과
 - 웹표준 준수를 위한 스킵 메뉴 및 aria, role 적용
